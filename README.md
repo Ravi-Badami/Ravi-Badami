@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-badami&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-badami" /> </p>
 
-- 🔭 I’m currently working on **Swiggy clone**
+- 🔭 I’m currently working as intern at **LumiEther**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React,Flutter,Quarkus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
