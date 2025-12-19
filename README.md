@@ -11,10 +11,15 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ravi-badami&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="ravi-badami trophies" />
+
+---
+
 ### 🚀 About Me
 </div>
 
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 **Currently:** Engineering at **LumiEther**
 - 💬 **Ask me about:** React, Flutter, Quarkus, & Node.js
@@ -37,14 +42,19 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 My Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravi-badami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-badami&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravi-badami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-badami&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-badami&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-badami&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-badami&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <br />
