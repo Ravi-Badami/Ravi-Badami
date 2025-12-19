@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-badami&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-badami" /> </p>
 
-- 🔭 I’m currently working as intern at **LumiEther**
+- 🔭 I’m currently working as at **LumiEther**
 
 - 💬 Ask me about **React,Flutter,Quarkus**
 
