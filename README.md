@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/ravikumar-badami" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/ravibadamipvt" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ravikumarbadami13@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -28,22 +28,9 @@ A results-driven Software Engineer based in India, specializing in building scal
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravi-badami&show_icons=true&theme=vibrant&hide_border=true&count_private=true&title_color=0e75b6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-badami&show_icons=true&locale=en&layout=compact&theme=vibrant&hide_border=true&title_color=0e75b6" />
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-badami&theme=vibrant&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
-</p>
 
----
 
-### 📈 Activity Overview
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-badami&theme=github-compact&hide_border=true&area=true&color=0e75b6" />
-</p>
 
 <br />
 
